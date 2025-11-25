@@ -1,0 +1,15 @@
+  develop[m
+  feature/crud-operations[m
+  feature/user-dashboard[m
+  feature/validate-user-input[m
+* [32mhotfix/fix-date-format[m
+  main[m
+  qa[m
+  [31mremotes/origin/HEAD[m -> origin/main
+  [31mremotes/origin/develop[m
+  [31mremotes/origin/feature/crud-operations[m
+  [31mremotes/origin/feature/user-dashboard[m
+  [31mremotes/origin/feature/validate-user-input[m
+  [31mremotes/origin/hotfix/fix-date-format[m
+  [31mremotes/origin/main[m
+  [31mremotes/origin/qa[m
